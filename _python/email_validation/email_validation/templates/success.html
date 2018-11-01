@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Email Validation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style/bootstrap.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h3 class="card-header">Email Validation</h3>
+            <div class="card-body">
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                        {% for message in messages %}
+                            <p class="alert alert-success" role="alert">{{ message }}</p>
+                        {% endfor %}
+                    {% endif %}
+                {% endwith %}
+                <h4 class="card-title">Email Address entered:</h4>
+                <table class="table table-borderless table-striped">
+                        <tbody>
+                            {% for email in emails %}
+                                <tr>
+                                    <th>{{ email['email'] }} </th>
+                                    <td>{{ email['made'] }}</td>
+                                    <td><a href="/emails/{{ email['id'] }}" class='btn btn-danger btn-sm'>Delete</a></td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                      </table>
+                <a href="/" class="btn btn-primary">Go Back</a>
+            </div>
+        </div>
+            
+    </div>
+</body>
+</html>

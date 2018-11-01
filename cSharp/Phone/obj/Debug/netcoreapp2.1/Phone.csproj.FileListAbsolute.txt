@@ -1,0 +1,11 @@
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/obj/Debug/netcoreapp2.1/Phone.csprojAssemblyReference.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/obj/Debug/netcoreapp2.1/Phone.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/obj/Debug/netcoreapp2.1/Phone.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/obj/Debug/netcoreapp2.1/Phone.AssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/bin/Debug/netcoreapp2.1/Phone.deps.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/bin/Debug/netcoreapp2.1/Phone.runtimeconfig.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/bin/Debug/netcoreapp2.1/Phone.runtimeconfig.dev.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/bin/Debug/netcoreapp2.1/Phone.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/bin/Debug/netcoreapp2.1/Phone.pdb
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/obj/Debug/netcoreapp2.1/Phone.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/Phone/obj/Debug/netcoreapp2.1/Phone.pdb

@@ -1,0 +1,85 @@
+* {
+    /* border: 1px solid red; */
+}
+#wrapper {
+    height: 1200px;
+    width: 970px;
+    /* background-image: url('./../images/jsloups.png');
+    background-repeat: no-repeat;
+    background-size: contain; */
+}
+#header {
+    width: 950px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: red;
+    /* opacity: .5; */
+}
+#header h1 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#left_content {
+    width: 165px;
+    height: 185px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    background-color: blue;
+    vertical-align: top;
+    /* opacity: .5; */
+}
+#left_content ul {
+    padding-left: 10px;
+    list-style-type: disc;
+}
+#left_content ul li:first-of-type.change {
+    list-style-type: none;
+}
+#left_content .hollow {
+    list-style-type: circle;
+}
+#left_content ul li {
+    font-size: 10px;
+    text-decoration: underline;
+}
+#main_content {
+    width: 760px;
+    height: 415px;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: green;
+    /* opacity: .5; */
+}
+.underline{
+    color:lightblue;
+    text-decoration: underline;
+}
+.bold {
+    color: darkblue;
+}
+#main_content h2, #main_content p {
+    margin-left: 15px;
+}
+#main_content p, #main_content li {
+    font-size: 12px;
+}
+#footer {
+    width: 950px;
+    height: 45px;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: yellow;
+    /* opacity: .5; */
+}
+#footer p {
+    margin-left: 15px;
+    padding-top: 10px;
+}
+
+#header, #left_content, #main_content, #footer {
+    border-radius: 10px;
+}

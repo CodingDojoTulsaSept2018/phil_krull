@@ -1,0 +1,14 @@
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/bin/Debug/netcoreapp2.1/DotnetDemo.deps.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/bin/Debug/netcoreapp2.1/DotnetDemo.runtimeconfig.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/bin/Debug/netcoreapp2.1/DotnetDemo.runtimeconfig.dev.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/bin/Debug/netcoreapp2.1/DotnetDemo.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/bin/Debug/netcoreapp2.1/DotnetDemo.pdb
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.csprojAssemblyReference.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.RazorAssemblyInfo.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.RazorAssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.AssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.RazorTargetAssemblyInfo.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/DotnetDemo/obj/Debug/netcoreapp2.1/DotnetDemo.pdb

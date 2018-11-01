@@ -1,0 +1,30 @@
+.building {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+.row:last-of-type, .row:nth-child(3) {
+    margin-top: 20px;
+}
+.row:nth-child(2) div:not(:last-of-type) {
+    margin-right: 10px;
+}
+span {
+    padding: 0 30px;
+}
+.row:first-of-type {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.red {
+    color: red
+}
+.green {
+    color: green;
+}
+.activities {
+    height: 200px;
+    width: 700px;
+    overflow: scroll;
+}
