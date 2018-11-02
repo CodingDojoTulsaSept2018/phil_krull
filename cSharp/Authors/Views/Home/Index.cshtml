@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h1>Change index</h1>
+    @if(@Model.Name != null) 
+    {
+        <h2>Author name just submited: @Model.Name</h2>
+    }
+</div>

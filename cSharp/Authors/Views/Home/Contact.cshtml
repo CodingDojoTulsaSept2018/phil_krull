@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+@model Author
+
+
+<form asp-controller='Home' asp-action='Create' method='Post'>
+    <label asp-for="Name"></label>
+    <input asp-for='Name'>
+    <span class="alert" asp-validation-for="Name"></span>
+
+    <button class='btn btn-warning'>Add Author</button>
+</form>
