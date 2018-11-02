@@ -1,0 +1,11 @@
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/bin/Debug/netcoreapp2.1/HumanOOP.deps.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/bin/Debug/netcoreapp2.1/HumanOOP.runtimeconfig.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/bin/Debug/netcoreapp2.1/HumanOOP.runtimeconfig.dev.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/bin/Debug/netcoreapp2.1/HumanOOP.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/bin/Debug/netcoreapp2.1/HumanOOP.pdb
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/obj/Debug/netcoreapp2.1/HumanOOP.csprojAssemblyReference.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/obj/Debug/netcoreapp2.1/HumanOOP.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/obj/Debug/netcoreapp2.1/HumanOOP.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/obj/Debug/netcoreapp2.1/HumanOOP.AssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/obj/Debug/netcoreapp2.1/HumanOOP.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/HumanOOP/obj/Debug/netcoreapp2.1/HumanOOP.pdb
