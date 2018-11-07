@@ -1,0 +1,11 @@
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/bin/Debug/netcoreapp2.1/LINQ.deps.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/bin/Debug/netcoreapp2.1/LINQ.runtimeconfig.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/bin/Debug/netcoreapp2.1/LINQ.runtimeconfig.dev.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/bin/Debug/netcoreapp2.1/LINQ.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/bin/Debug/netcoreapp2.1/LINQ.pdb
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/obj/Debug/netcoreapp2.1/LINQ.csprojAssemblyReference.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/obj/Debug/netcoreapp2.1/LINQ.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/obj/Debug/netcoreapp2.1/LINQ.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/obj/Debug/netcoreapp2.1/LINQ.AssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/obj/Debug/netcoreapp2.1/LINQ.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_sept_2018/cSharp/LINQ/obj/Debug/netcoreapp2.1/LINQ.pdb
