@@ -1,0 +1,11 @@
+<div>
+    <form (submit)='addPlanet()'>
+      <p>Name:</p>
+      <input type="text" name='name' [(ngModel)]="planet.name">
+      <p>Size:</p>
+      <input type="number" name='size' [(ngModel)]="planet.size">
+      <p>Number of Moons:</p>
+      <input type="number" name='moons' [(ngModel)]="planet.moons">
+      <input type="submit" value='Add Planet'>
+    </form>
+</div>

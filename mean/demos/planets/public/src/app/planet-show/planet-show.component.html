@@ -1,0 +1,21 @@
+<div>
+  <table border='1'>
+    <thead>
+      <tr>
+        <td>Name</td>
+        <td>Size</td>
+        <td>Number of Moons</td>
+        <td>Action</td>
+      </tr>
+    </thead>
+    <tbody *ngIf='allPlanets'>
+      <tr *ngFor='let planet of allPlanets'>
+        <td>{{ planet.name }}</td>
+        <td>{{ planet.size }}</td>
+        <td>{{ planet.moons }}</td>
+        <td><button (click)='showOne(planet._id)'>Show {{ planet._id }}</button></td>
+      </tr>
+    </tbody>
+  </table>
+  <app-planet-showone *ngIf='planet' [showOnePlanet]='planet'></app-planet-showone>
+</div>
