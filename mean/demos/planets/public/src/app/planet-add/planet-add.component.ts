@@ -19,7 +19,7 @@ export class PlanetAddComponent implements OnInit {
     console.log(this.planet);
     this._service.addPlanet(this.planet).subscribe(response => {
       console.log(response);
-      this._service.addPlanetToService(response.addedPlanet);
+      this._service.addPlanetToService(response['addedPlanet']);
       this.planet = new Planet();
     });
   }

@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Planet } from './planet';
+import { Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -17,15 +18,15 @@ export class HttpService {
     return this._http.post('/planets', planet);
   }
 
-  addPlanetToService(planet: Planet) {
+  addPlanetToService(planet: Planet):void {
     this.allPlanets.push(planet);
   }
 
-  setPlanets(allPlanets: Planet[]) {
+  setPlanets(allPlanets: Planet[]):void {
     this.allPlanets = allPlanets;
   }
 
-  getPlanets() {
+  getPlanets():Array<Planet> {
     return this.allPlanets;
   }
 

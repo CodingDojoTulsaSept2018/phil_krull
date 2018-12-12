@@ -8,24 +8,24 @@ import { Planet } from '../planet';
   styleUrls: ['./planet-show.component.css']
 })
 export class PlanetShowComponent implements OnInit {
-  allPlanets: Planet[];
+  allPlanets: Array<Planet>;
   planet: Planet;
 
   constructor(private _service: HttpService) { }
 
-  ngOnInit() {
+  ngOnInit():void {
     this._service.getPlanetsFromService().subscribe(response => {
-        this._service.setPlanets(response.allPlanets);
+        this._service.setPlanets(response['allPlanets']);
         console.log('get planets', this._service.getPlanets())
         this.allPlanets = this._service.getPlanets();
       });;
   }
 
-  showOne(planet_id: String) {
+  showOne(planet_id: String):void {
     // get one planet
     this._service.getOnePlanet(planet_id).subscribe(response =>{
       console.log(response);
-      this.planet = response.onePlanet;
+      this.planet = response['onePlanet'];
     })
     // set the planet to the child component using Inputs
   }
